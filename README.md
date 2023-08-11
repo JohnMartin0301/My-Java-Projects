@@ -3,7 +3,7 @@
 
 
 
-## + Code Snippet Tool
+## * Code Snippet Tool
 
 
 
@@ -24,13 +24,13 @@ The Code Snippet Manager is a Java-based utility designed to simplify code snipp
 ## Features
 
 
-*Categorization: Organize your code snippets into different categories, making it easy to find the code you need for specific tasks.
+* Categorization: Organize your code snippets into different categories, making it easy to find the code you need for specific tasks.
 
-*Keyword Association: Associate keywords with each code snippet to enhance searchability and quickly locate relevant code.
+* Keyword Association: Associate keywords with each code snippet to enhance searchability and quickly locate relevant code.
 
-*Search by Keyword: Search for code snippets using keywords to retrieve snippets that match your search criteria.
+* Search by Keyword: Search for code snippets using keywords to retrieve snippets that match your search criteria.
 
-*Retrieve by Category: Retrieve all snippets within a specific category for a comprehensive view of related code.
+* Retrieve by Category: Retrieve all snippets within a specific category for a comprehensive view of related code.
 
 
 
@@ -65,7 +65,7 @@ List<CodeSnippet> javaSnippets = manager.retrieveSnippetsByCategory("Java");
 
 
 
-## + Inventory System
+## * Inventory System
 
 
 
@@ -87,15 +87,15 @@ The Inventory System is designed to streamline the process of managing product i
 
 
 
-*Add Products: Easily add new products to your inventory by providing essential details such as product ID, name, price, and initial stock.
+* Add Products: Easily add new products to your inventory by providing essential details such as product ID, name, price, and initial stock.
 
-*Update Stock: Keep track of your inventory by updating stock levels for existing products.
+* Update Stock: Keep track of your inventory by updating stock levels for existing products.
 
-*Search Products: Quickly search for products by their unique product ID and receive instant information about the product.
+* Search Products: Quickly search for products by their unique product ID and receive instant information about the product.
 
-*Generate Inventory Report: Generate a comprehensive inventory report that displays all your products with their details, including ID, name, price, and current stock.
+* Generate Inventory Report: Generate a comprehensive inventory report that displays all your products with their details, including ID, name, price, and current stock.
 
-*User-Friendly Interface: The interactive menu-based interface ensures a user-friendly experience, making it accessible to users with various levels of technical expertise.
+* User-Friendly Interface: The interactive menu-based interface ensures a user-friendly experience, making it accessible to users with various levels of technical expertise.
 
 
 
@@ -133,7 +133,7 @@ Efficiently manage your inventory with the Inventory System. From adding new pro
 
 
 
-## + Password Manager
+## * Password Manager
 
 
 
@@ -155,13 +155,13 @@ The Password Manager is designed to help you securely store and retrieve passwor
 
 
 
-*Password Storage: Store your passwords securely with website and username information for easy retrieval.
+* Password Storage: Store your passwords securely with website and username information for easy retrieval.
 
-*Password Retrieval: Retrieve your stored passwords by providing the website associated with the password.
+* Password Retrieval: Retrieve your stored passwords by providing the website associated with the password.
 
-*Basic Encryption: The passwords are encrypted using a simple encryption technique to enhance security.
+* Basic Encryption: The passwords are encrypted using a simple encryption technique to enhance security.
 
-*User-Friendly Interface: The interactive menu-based interface ensures a user-friendly experience, making it accessible to users of varying technical backgrounds.
+* User-Friendly Interface: The interactive menu-based interface ensures a user-friendly experience, making it accessible to users of varying technical backgrounds.
 
 
 
@@ -190,7 +190,7 @@ Enhance your online security with the Password Manager. Safely store and retriev
 
 
 
-## + Personal Finance Tracker
+## * Personal Finance Tracker
 
 
 
@@ -212,13 +212,13 @@ The Personal Finance Tracker is designed to assist you in monitoring your expens
 
 
 
-*Allocation of Funds: Allocate your total allowance to different categories, including Needs, Savings, and Wants.
+* Allocation of Funds: Allocate your total allowance to different categories, including Needs, Savings, and Wants.
 
-*Expense Tracking: Keep track of your expenses by entering transaction details, such as category, description, and amount.
+* Expense Tracking: Keep track of your expenses by entering transaction details, such as category, description, and amount.
 
-*Insightful Reports: Generate reports that display your monthly expenses and available funds for each category.
+* Insightful Reports: Generate reports that display your monthly expenses and available funds for each category.
 
-*User-Friendly Interface: The interactive menu-based interface ensures a seamless experience, making it suitable for users with varying levels of financial knowledge.
+* User-Friendly Interface: The interactive menu-based interface ensures a seamless experience, making it suitable for users with varying levels of financial knowledge.
 
 
 
@@ -244,7 +244,7 @@ Take control of your finances with the Personal Finance Tracker. Efficiently man
 
 
 
-## + Task Scheduler Java
+## * Task Scheduler Java
 
 
 
@@ -266,13 +266,13 @@ The Task Scheduler empowers you to manage your tasks with ease. Add tasks with d
 
 
 
-*Task Management: Add tasks with titles, due dates, and priorities to keep track of your to-do list.
+* Task Management: Add tasks with titles, due dates, and priorities to keep track of your to-do list.
 
-*Priority Tracking: Assign priorities to your tasks, helping you focus on the most important ones first.
+* Priority Tracking: Assign priorities to your tasks, helping you focus on the most important ones first.
 
-*Listing Tasks: View your tasks in a neatly organized list, displaying task titles, due dates, and priorities.
+* Listing Tasks: View your tasks in a neatly organized list, displaying task titles, due dates, and priorities.
 
-*User-Friendly Interface: The intuitive menu-based interface ensures straightforward interaction, making it accessible to users of varying technical levels.
+* User-Friendly Interface: The intuitive menu-based interface ensures straightforward interaction, making it accessible to users of varying technical levels.
 
 
 
@@ -298,7 +298,7 @@ Stay organized and productive with the Task Scheduler. Manage your tasks, track 
 
 
 
-## + Text Analysis Tool
+## * Text Analysis Tool
 
 
 This Java project offers a comprehensive solution for analyzing text documents. Gain insights into your text's structure by counting sentences and calculating word frequencies. Whether you're a writer, researcher, or language enthusiast, this tool is here to assist you.
@@ -319,13 +319,13 @@ The Text Analysis Tool empowers you to dive into the world of text analysis. Cou
 
 
 
-*Sentence Counting: Count the number of sentences in your text to assess its structure and readability.
+* Sentence Counting: Count the number of sentences in your text to assess its structure and readability.
 
-*Word Frequency Calculation: Calculate the frequency of each word in the text to identify key terms and recurring phrases.
+* Word Frequency Calculation: Calculate the frequency of each word in the text to identify key terms and recurring phrases.
 
-*Insightful Reporting: Get a concise overview of sentence counts and word frequencies to help you understand your text.
+* Insightful Reporting: Get a concise overview of sentence counts and word frequencies to help you understand your text.
 
-*User-Friendly Interface: The command-line interface ensures straightforward usage, making it accessible to users with varying levels of technical expertise.
+* User-Friendly Interface: The command-line interface ensures straightforward usage, making it accessible to users with varying levels of technical expertise.
 
 
 
