@@ -3,7 +3,7 @@
 
 
 
-## Code Snippet Tool
+## +Code Snippet Tool
 
 
 
@@ -65,7 +65,7 @@ List<CodeSnippet> javaSnippets = manager.retrieveSnippetsByCategory("Java");
 
 
 
-## Inventory System
+## +Inventory System
 
 
 
@@ -133,7 +133,7 @@ Efficiently manage your inventory with the Inventory System. From adding new pro
 
 
 
-## Password Manager
+## +Password Manager
 
 
 
@@ -190,7 +190,7 @@ Enhance your online security with the Password Manager. Safely store and retriev
 
 
 
-## Personal Finance Tracker
+## +Personal Finance Tracker
 
 
 
@@ -244,7 +244,7 @@ Take control of your finances with the Personal Finance Tracker. Efficiently man
 
 
 
-## Task Scheduler Java
+## +Task Scheduler Java
 
 
 
@@ -298,7 +298,7 @@ Stay organized and productive with the Task Scheduler. Manage your tasks, track 
 
 
 
-## Text Analysis Tool
+## +Text Analysis Tool
 
 
 This Java project offers a comprehensive solution for analyzing text documents. Gain insights into your text's structure by counting sentences and calculating word frequencies. Whether you're a writer, researcher, or language enthusiast, this tool is here to assist you.
