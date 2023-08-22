@@ -338,3 +338,42 @@ analyzeText(filePath);
 
 
 Uncover insights within your text using the Text Analysis Tool. Explore sentence structure and word frequencies to gain a deeper understanding of your content. Enhance your text analysis skills today! 📊
+
+
+
+
+
+
+
+
+
+
+## *Java Desktop Cleaner
+
+
+This is a Java program for cleaning up and organizing files on your desktop based on their file types.
+
+
+
+![javadesktopcleaner](https://github.com/JohnMartin0301/My-Java-Projects/assets/112761826/127651c6-cb35-44de-90bb-a4d0a3605556)
+
+
+
+
+## Features
+
+
+
+* Organizes files into folders based on their types (audio, video, images, documents).
+* Supports customizable file extensions and destination folders.
+* Logs file movements for easy tracking.
+
+
+
+## Usage
+
+
+
+* Open the Java file in your preferred IDE or text editor.
+* Modify the source and destination directories to match your setup.
+* Compile and run the program.
